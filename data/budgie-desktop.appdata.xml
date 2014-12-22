@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Michel Alexandre Salim <michel@michel-slm.name> -->
+<component type="desktop">
+ <id>gnome-power-statistics.desktop</id>
+ <metadata_license>CC0-1.0</metadata_license>
+ <project_license>GPL-2.0+</project_license>
+ <name>Budgie</name>
+ <summary>An elegant desktop with GNOME integration</summary>
+ <description>
+   <p>
+     Budgie is the flagship desktop of the Evolve OS Linux
+     Distribution, and is an Evolve OS project. Designed with the
+     modern user in mind, it focuses on simplicity and elegance.
+   </p>
+   <p>
+     The Budgie Desktop tightly integrates with the GNOME stack,
+     employing underlying technologies to offer an alternative desktop
+     experience. In the spirit of open source, the project is
+     compatible with and available for other Linux distributions.
+  </p>
+ </description>
+ <screenshots>
+  <screenshot type="default">
+   <image>https://evolve-os.com/wp-content/uploads/2014/07/7sound-menu.png</image>
+   <caption>Budgie Desktop v7</caption>
+  </screenshot>
+  <screenshot>
+   <image>https://evolve-os.com/wp-content/uploads/2014/07/GnomeBudgie.png</image>
+   <caption>A more classical Budgie</caption>
+  </screenshot>
+ </screenshots>
+ <url type="homepage">https://evolve-os.com/budgie/</url>
+ <updatecontact>https://github.com/evolve-os/budgie-desktop/issues</updatecontact>
+ <project_group>GNOME</project_group>
+</component>
